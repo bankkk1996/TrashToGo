@@ -1,0 +1,37 @@
+<resources>
+    <string name="app_name">Trash2Go</string>
+    <string name="btn_getstart">GET STARTED</string>
+    <string name="Singin">Sign in</string>
+    <string name="Email">Email</string>
+    <string name="Password">Password</string>
+    <string name="CMPassword">Confirm password</string>
+    <string name="Forget">Forget password ?</string>
+    <string name="Login">Login</string>
+    <string name="Already">Already have an account?</string>
+    <string name="SignUp">Sign up</string>
+    <string name="back">Back</string>
+    <string name="Name">Name</string>
+    <string name="Begin">ยินดีต้อนรับเข้าสู่ Trash2Go !</string>
+    <string name="facebook">or Login with\nFacebook</string>
+    <string name="nameProfile">Hello Jn</string>
+    <string name="TimeProfile">Good morning</string>
+    <string name="navi_open">Open</string>
+    <string name="navi_close">Close</string>
+    <string name="MenuProfile">Profile</string>
+    <string name="nameProfileMenu">Jn Sirikulpak</string>
+    <string name="Provice">Bangkok</string>
+    <string name="country">Thailand</string>
+    <string name="NumTemp">32</string>
+    <string name="time">08.00 AM</string>
+    <string name="What">What are you going to do?</string>
+    <string name="call">เรียกรถรับซื้อ</string>
+    <string name="factory">โรงรับซื้อขยะ</string>
+    <string name="typeTrash">ประเภทขยะ</string>
+    <string name="Information">Information</string>
+    <string name="CallTrash">เรียกรถรับซื้อขยะไปรับถึงบ้าน</string>
+    <string name="NextPage">ต่อไป >></string>
+    <string name="map_key" translatable="false">AIzaSyDTb6yrG2NRcdnK_EiFFejpc11vDSRtSTc</string>
+    <string name="TypeTitle">ขยะรีไซเคิล</string>
+    <string name="FacTitle">โรงรับซื้อขยะ</string>
+    <string name="Submit">READY TO CALL</string>
+</resources>

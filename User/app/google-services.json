@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "970340997404",
+    "firebase_url": "https://trash2go-c79ee.firebaseio.com",
+    "project_id": "trash2go-c79ee",
+    "storage_bucket": "trash2go-c79ee.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:970340997404:android:8b356de550d8dfd580c2d9",
+        "android_client_info": {
+          "package_name": "jn.example.trashtogo"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "970340997404-iuq776ht8amqh3s2n77lb992el18t845.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "jn.example.trashtogo",
+            "certificate_hash": "13a97ee3602856495f0909943cc3ee4261124160"
+          }
+        },
+        {
+          "client_id": "970340997404-hp6rji0clji4knsj8gsfsalr3fg5ekk9.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyA_ezSJbAmPapJWbhCQDXBtE2ffj-BX4V0"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "970340997404-hp6rji0clji4knsj8gsfsalr3fg5ekk9.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
