@@ -1,0 +1,2 @@
+# TrashToGo
+Applacation TrashToGo
